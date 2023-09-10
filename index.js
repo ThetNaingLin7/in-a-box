@@ -94,9 +94,9 @@ class MyFooter extends HTMLElement{
             <div class="col-lg-4 text-center mt-5">
                 <h4>Contact Us</h4>
                 <div class="d-flex flex-column">
-                <a href="./contactUs.html" class="text-decoration-none text-muted my-3"><i class="fa-solid fa-phone pe-2"></i>
+                <a href="tel:+959762710957" class="text-decoration-none text-muted my-3"><i class="fa-solid fa-phone pe-2"></i>
                     +959762710957</a>
-                <a href="#" class="text-decoration-none text-muted mt-2"><i class="fa-solid fa-envelope pe-3"></i>
+                <a href="mailto:info@inabox.com" class="text-decoration-none text-muted mt-2"><i class="fa-solid fa-envelope pe-3"></i>
                     info@inabox.com</a>
                 </div>
             </div>
